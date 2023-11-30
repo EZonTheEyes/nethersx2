@@ -14,7 +14,9 @@ Alternatively, check out the 3668 version, useful for alternate performance per 
 
 https://github.com/Trixarian/NetherSX2-classic
 
-This script is for use in Termux, specifically the F-Droid release as Termux for Play Store is currently outdated. Get the correct version of Termux here: https://f-droid.org/en/packages/com.termux/
+This script is for use in Termux, specifically the F-Droid release as Termux for Play Store is currently outdated. Get the correct version of Termux here:
+
+https://f-droid.org/en/packages/com.termux/
 
 # Installation & Usage
 
