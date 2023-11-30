@@ -6,8 +6,13 @@ A Script to modify the emulator AetherSX2 into NetherSX2 with various improvemen
 -Removed PS3 Bios check (PS2 bios from PS3 firmware support reimplemented)
 -Optional Emulator App Rename (Default is NetherSX2, can be adjusted to ‘AetherSX2’ or customized names with one termux command. Does not effect package names and frontends.)
 
-For the more modern, up to date releases developed by community members, see Trixarian's Repository at: https://github.com/Trixarian/NetherSX2-patch
-Alternatively, check out the 3668 version, useful for alternate performance per device, available at: https://github.com/Trixarian/NetherSX2-classic
+For the more modern, up to date releases developed by community members, see Trixarian's Repository at:
+
+https://github.com/Trixarian/NetherSX2-patch
+
+Alternatively, check out the 3668 version, useful for alternate performance per device, available at:
+
+https://github.com/Trixarian/NetherSX2-classic
 
 This script is for use in Termux, specifically the F-Droid release as Termux for Play Store is currently outdated. Get the correct version of Termux here: https://f-droid.org/en/packages/com.termux/
 
