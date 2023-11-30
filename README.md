@@ -1,9 +1,13 @@
 # Nethersx2
 
 A Script to modify the emulator AetherSX2 into NetherSX2 with various improvements for Android Devices. This is the Initial, 1.0 release, released August 7th 2023, created by Anonymous (Previously known for Bios Claim). This release includes:
+
 -Removed Advertisements (All files relating to adverts removed)
+
 -Reimplimented Frontend Support (Tested extensively with DaiJiSho and Launchbox)
+
 -Removed PS3 Bios check (PS2 bios from PS3 firmware support reimplemented)
+
 -Optional Emulator App Rename (Default is NetherSX2, can be adjusted to ‘AetherSX2’ or customized names with one termux command. Does not effect package names and frontends.)
 
 For the more modern, up to date releases developed by community members, see Trixarian's Repository at:
