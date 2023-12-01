@@ -10,6 +10,8 @@ A Script to modify the emulator AetherSX2 into NetherSX2 with various improvemen
 
 -Optional Emulator App Rename (Default is NetherSX2, can be adjusted to ‘AetherSX2’ or customized names with one termux command. Does not effect package names and frontends.)
 
+[<img src="https://i.ytimg.com/vi/9sbsJp07ess/maxresdefault.jpg" width="90%">](https://www.youtube.com/watch?v=9sbsJp07ess "Introducing NetherSX2 | Launch Trailer")
+
 For the more modern, up to date releases developed by community members, see Trixarian's Repository at:
 
 https://github.com/Trixarian/NetherSX2-patch
@@ -26,6 +28,8 @@ https://f-droid.org/en/packages/com.termux/
 
 Please see the Readme's included with the releases, along with the video guide bellow, on how to install and use this iteration for yourself.
 
+[<img src="[https://i.ytimg.com/vi/Jwfb8I0Ro4k/maxresdefault.jpg](https://i.ytimg.com/vi/2y3uRlYq4SY/maxresdefault.jpg)" width="90%">](https://www.youtube.com/watch?v=2y3uRlYq4SY&t=1s "NetherSX2 Installation and Usage Guide | NetherSX2")
+
 # Bios Claim Tool for PS2 and PS1 Bios
 
 Thanks to this tool, it is now possible to easily obtain a PS2 (and PS1) BIOS from PS3 Firmware without the need to obtain one from a PS2 Console through an easy to execute plugin for RPCS3, named Firmware BIOS Claim. This means all you would need to play a PS2 game legally is access to a computer.
@@ -33,6 +37,8 @@ Thanks to this tool, it is now possible to easily obtain a PS2 (and PS1) BIOS fr
 # Installation & Usage
 
 Please see the Readme's included with the releases, along with the video guide bellow, on how to install and use this iteration for yourself.
+
+[<img src="https://i.ytimg.com/vi/gah74XQcezc/maxresdefault.jpg" width="90%">](https://www.youtube.com/watch?v=gah74XQcezc "Extracting PS2 (And PS1) BIOS From PS3 Firmware WITHOUT A CONSOLE Using BIOS CLAIM!")
 
 # Credits and Thanks:
 
