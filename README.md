@@ -28,7 +28,7 @@ https://f-droid.org/en/packages/com.termux/
 
 Please see the Readme's included with the releases, along with the video guide bellow, on how to install and use this iteration for yourself.
 
-[<img src="[https://i.ytimg.com/vi/Jwfb8I0Ro4k/maxresdefault.jpg](https://i.ytimg.com/vi/2y3uRlYq4SY/maxresdefault.jpg)" width="90%">](https://www.youtube.com/watch?v=2y3uRlYq4SY&t=1s "NetherSX2 Installation and Usage Guide | NetherSX2")
+[<img src="https://i.ytimg.com/vi/2y3uRlYq4SY/maxresdefault.jpg" width="90%">](https://www.youtube.com/watch?v=2y3uRlYq4SY&t=1s "NetherSX2 Installation and Usage Guide | NetherSX2")
 
 # Bios Claim Tool for PS2 and PS1 Bios
 
